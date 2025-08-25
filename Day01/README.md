@@ -1,5 +1,5 @@
 const student = {
-  name: "Rahul Sharma", 
+  name: "Atul Nath", 
   age: 18,              
   grade: "12th"          
 };
