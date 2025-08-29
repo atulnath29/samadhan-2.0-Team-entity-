@@ -10,9 +10,9 @@ const PORT = 3000;
 // 3. Create some mock student data for the mini-task
 // Using our team "Syntax Solvers" as examples!
 const students = [
-    { id: 1, name: 'Vipin Tomar', team: 'Syntax Solvers' },
-    { id: 2, name: 'Jayesh Thakur', team: 'Syntax Solvers' },
-    { id: 3, name: 'Ambar Gupta', team: 'Syntax Solvers' }
+    { id: 1, name: 'Atul Nath', team: 'Syntax Solvers' },
+    { id: 2, name: 'Ankit Kumar', team: 'Syntax Solvers' },
+    { id: 3, name: 'Nimish Tiwari', team: 'Syntax Solvers' }
 ];
 
 // 4. Define Routes
