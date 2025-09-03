@@ -10,9 +10,9 @@ app.use(express.json());
 
 // Using a simple array as an in-memory database
 let students = [
-    { id: 1, name: "Vipin Tomar", course: "B.Tech CSE (AI & DS)" },
-    { id: 2, name: "Jayesh Thakur", course: "Full Stack Development" },
-    { id: 3, name: "Ambar Gupta", course: "UI/UX Design" }
+    { id: 1, name: "Atul Nath", course: "B.Tech CSE" },
+    { id: 2, name: "Ankit Kumar", course: "Full Stack Development" },
+    { id: 3, name: "Nimish Tiwari, course: "UI/UX Design" }
 ];
 
 // --- ROUTES ---
