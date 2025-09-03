@@ -1,0 +1,20 @@
+{
+  "name": "day11-backend-crud",
+  "version": "1.0.0",
+  "description": "My first CRUD API using Express for Samadhan 2.0 learning.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "crud",
+    "express",
+    "nodejs"
+  ],
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
