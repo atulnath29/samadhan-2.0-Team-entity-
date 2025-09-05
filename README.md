@@ -1,4 +1,4 @@
-📚 Samadhan 2.0 Hackathon – Study Buddy Platform
+📚 Samadhan 2.0 Hackathon – Career Guidance
 
 🚀 Building the next generation of AI-powered platforms for competitive exam preparation.
 Organized under Samadhan 2.0, this hackathon is a 48-hour sprint to innovate solutions by students, for students.
