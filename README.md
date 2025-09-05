@@ -89,7 +89,7 @@ We believe in innovating boldly and making education accessible, bilingual, and 
 
 ▶️ How to Run
 # clone repo
-git clone https://github.com/Vipin2507/samadhan-2.0.git
+git clone https://github.com/atulnath29/samadhan-2.0-Team-entity-.git
 cd samadhan-2.0
 
 # install dependencies
